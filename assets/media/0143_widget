@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chatwoot</title>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3szFBz0uhQpmrvhHQC8dFQwCeg13_n6qjtZHd5d2Yqj2GFdf9ATxRa0GEL39dAjO74FvUJozEtb1krAX21NxbQ" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <script>
+      window.chatwootWebChannel = {
+        avatarUrl: '',
+        hasAConnectedAgentBot: 'Echo AI-assistant',
+        locale: 'ru',
+        websiteName: 'StarPets',
+        websiteToken: 'zNvmL4nBsw46croV3nJvPPgV',
+        welcomeTagline: "",
+        welcomeTitle: '',
+        widgetColor: '#E5CF22',
+        portal: {"id":1,"account_id":1,"name":"Starpets","slug":"starpets","custom_domain":null,"color":"#2781F6","homepage_link":null,"page_title":null,"header_text":null,"created_at":"2026-04-22T06:41:17.892Z","updated_at":"2026-05-28T15:17:47.287Z","config":{"draft_locales":["tr"],"default_locale":"en","allowed_locales":["en","ru","tr"]},"archived":false,"channel_web_widget_id":null,"ssl_settings":{}},
+        enabledFeatures: ["attachments","emoji_picker","use_inbox_avatar_for_bot"],
+        enabledLanguages: [{"name":"English (en)","iso_639_1_code":"en"},{"name":"العربية (ar)","iso_639_1_code":"ar"},{"name":"Nederlands (nl) ","iso_639_1_code":"nl"},{"name":"Français (fr)","iso_639_1_code":"fr"},{"name":"Deutsch (de)","iso_639_1_code":"de"},{"name":"Italiano (it)","iso_639_1_code":"it"},{"name":"日本語 (ja)","iso_639_1_code":"ja"},{"name":"한국어 (ko)","iso_639_1_code":"ko"},{"name":"Português (pt)","iso_639_1_code":"pt"},{"name":"русский (ru)","iso_639_1_code":"ru"},{"name":"Español (es)","iso_639_1_code":"es"},{"name":"മലയാളം (ml)","iso_639_1_code":"ml"},{"name":"Català (ca)","iso_639_1_code":"ca"},{"name":"ελληνικά (el)","iso_639_1_code":"el"},{"name":"Português Brasileiro (pt-BR)","iso_639_1_code":"pt_BR"},{"name":"Română (ro)","iso_639_1_code":"ro"},{"name":"தமிழ் (ta)","iso_639_1_code":"ta"},{"name":"فارسی (fa)","iso_639_1_code":"fa"},{"name":"中文 (台湾) (zh-TW)","iso_639_1_code":"zh_TW"},{"name":"Tiếng Việt (vi)","iso_639_1_code":"vi"},{"name":"dansk (da)","iso_639_1_code":"da"},{"name":"Türkçe (tr)","iso_639_1_code":"tr"},{"name":"čeština (cs)","iso_639_1_code":"cs"},{"name":"suomi, suomen kieli (fi)","iso_639_1_code":"fi"},{"name":"Bahasa Indonesia (id)","iso_639_1_code":"id"},{"name":"Svenska (sv)","iso_639_1_code":"sv"},{"name":"magyar nyelv (hu)","iso_639_1_code":"hu"},{"name":"norsk (no)","iso_639_1_code":"no"},{"name":"中文 (zh-CN)","iso_639_1_code":"zh_CN"},{"name":"język polski (pl)","iso_639_1_code":"pl"},{"name":"slovenčina (sk)","iso_639_1_code":"sk"},{"name":"украї́нська мо́ва (uk)","iso_639_1_code":"uk"},{"name":"ภาษาไทย (th)","iso_639_1_code":"th"},{"name":"latviešu valoda (lv)","iso_639_1_code":"lv"},{"name":"íslenska (is)","iso_639_1_code":"is"},{"name":"עִברִית (he)","iso_639_1_code":"he"},{"name":"lietuvių (lt)","iso_639_1_code":"lt"},{"name":"Српски (sr)","iso_639_1_code":"sr"},{"name":"български (bg)","iso_639_1_code":"bg"},{"name":"Eesti keel (et)","iso_639_1_code":"et"},{"name":"বাংলা (bn)","iso_639_1_code":"bn"},{"name":"Tagalog (tl)","iso_639_1_code":"tl"},{"name":"اردو (ur)","iso_639_1_code":"ur"}],
+        replyTime: 'in_a_day',
+        preChatFormEnabled: true,
+        preChatFormOptions: {"pre_chat_fields":[{"name":"emailAddress","type":"email","label":"Email","enabled":true,"required":true,"field_type":"standard","placeholder":"email"},{"name":"fullName","type":"text","label":"Имя","enabled":true,"required":true,"field_type":"standard","placeholder":"имя"},{"name":"phoneNumber","type":"text","label":"Phone number","enabled":false,"required":false,"field_type":"standard","placeholder":"phoneNumber"},{"name":"category","type":"list","label":"Category","values":["withdrawal","other","promo_giveaway","site_error","selling_inventory_rating","account_roblox","robux_gamepass_giftcard","item_not_received","payment","cvbots","wheel"],"enabled":true,"required":true,"regex_cue":null,"field_type":"conversation_attribute","placeholder":"Category","regex_pattern":null},{"name":"starpets_id","type":"text","label":"Starpets ID","values":[],"enabled":false,"required":false,"regex_cue":null,"field_type":"contact_attribute","placeholder":"Starpets ID","regex_pattern":null},{"name":"language","type":"list","label":"Language","values":["ru","en","tr"],"enabled":false,"required":false,"regex_cue":null,"field_type":"contact_attribute","placeholder":"Language","regex_pattern":null}],"pre_chat_message":""},
+        workingHoursEnabled: true,
+        csatSurveyEnabled: false,
+        workingHours: [{"id":15,"inbox_id":34,"account_id":1,"day_of_week":0,"closed_all_day":true,"open_hour":null,"open_minutes":null,"close_hour":null,"close_minutes":null,"created_at":"2026-05-06T15:00:24.968Z","updated_at":"2026-05-06T15:00:24.968Z","open_all_day":false},{"id":21,"inbox_id":34,"account_id":1,"day_of_week":6,"closed_all_day":true,"open_hour":null,"open_minutes":null,"close_hour":null,"close_minutes":null,"created_at":"2026-05-06T15:00:24.979Z","updated_at":"2026-05-06T15:00:24.979Z","open_all_day":false},{"id":16,"inbox_id":34,"account_id":1,"day_of_week":1,"closed_all_day":false,"open_hour":9,"open_minutes":0,"close_hour":20,"close_minutes":0,"created_at":"2026-05-06T15:00:24.970Z","updated_at":"2026-06-30T14:09:19.063Z","open_all_day":false},{"id":17,"inbox_id":34,"account_id":1,"day_of_week":2,"closed_all_day":false,"open_hour":9,"open_minutes":0,"close_hour":20,"close_minutes":0,"created_at":"2026-05-06T15:00:24.972Z","updated_at":"2026-06-30T14:09:19.070Z","open_all_day":false},{"id":18,"inbox_id":34,"account_id":1,"day_of_week":3,"closed_all_day":false,"open_hour":9,"open_minutes":0,"close_hour":20,"close_minutes":0,"created_at":"2026-05-06T15:00:24.974Z","updated_at":"2026-06-30T14:09:19.075Z","open_all_day":false},{"id":19,"inbox_id":34,"account_id":1,"day_of_week":4,"closed_all_day":false,"open_hour":9,"open_minutes":0,"close_hour":20,"close_minutes":0,"created_at":"2026-05-06T15:00:24.976Z","updated_at":"2026-06-30T14:09:19.079Z","open_all_day":false},{"id":20,"inbox_id":34,"account_id":1,"day_of_week":5,"closed_all_day":false,"open_hour":9,"open_minutes":0,"close_hour":20,"close_minutes":0,"created_at":"2026-05-06T15:00:24.978Z","updated_at":"2026-06-30T14:09:19.082Z","open_all_day":false}],
+        outOfOfficeMessage: "Hey! 👋 Our operators are offline right now, but we got your message. Echo AI-assistant will assist you now, and an operator will step in if needed.\\\n\\\nPlease describe what happened. If this is about a payment, withdrawal, or order, you can also send the order ID or the last 7 characters of the transaction ID.\\\nWe’ll get back to you during working hours.",
+        utcOffset: '+03:00',
+        timezone: 'Europe/Moscow',
+        allowMessagesAfterResolved: false,
+        disableBranding: false,
+      }
+      window.chatwootPubsubToken = 'wxXqU4jg7n6hz6STu4mtT4Dw'
+      window.authToken = 'eyJhbGciOiJIUzI1NiJ9.eyJzb3VyY2VfaWQiOiI1ZGJjODUwMy02OWEzLTQzZmMtOTM5MC1jMjZiMWZjNzM2NTMiLCJpbmJveF9pZCI6MzQsImV4cCI6MTc5ODczOTY5NSwiaWF0IjoxNzgzMTg3Njk1fQ.rTr6TwxGB07Ncl6A_glZPNL5J6RsSROBSUOl71GMlOQ'
+      window.globalConfig = {"LOGO_THUMBNAIL":"/brand-assets/logo_thumbnail.svg","BRAND_NAME":"Chatwoot","WIDGET_BRAND_URL":"https://www.chatwoot.com","DIRECT_UPLOADS_ENABLED":false,"MAXIMUM_FILE_UPLOAD_SIZE":40,"INSTALLATION_NAME":"Chatwoot"}
+    </script>
+    
+    <script src="/vite/assets/widget-Blu94UDJ.js" crossorigin="anonymous" type="module"></script><link rel="modulepreload" href="/vite/assets/_plugin-vue_export-helper-BTQ8gHAs.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/useBranding-BS3BZVNz.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/vue-dompurify-html-Bb1lQ-LC.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/sharedFrameEvents-0qZ2yOho.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/utils.esm-CFY6jNqH.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/constants-lVAyZKq6.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/Validators-CL3HNW89.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/index-QgN6QPKG.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/Icon-DzbDd_Ew.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/Branding-H-S9w5NQ.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/module-BqxCsuv1.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/_commonjsHelpers-BosuxZz1.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="/vite/assets/index-DN3rM4CW.js" as="script" crossorigin="anonymous"><link rel="stylesheet" href="/vite/assets/widget-CYtpmECF.css" media="screen" />
+<link rel="stylesheet" href="/vite/assets/useBranding-DSFJg_40.css" media="screen" />
+  </head>
+  <body>
+    <div id="app" class="h-full"></div>
+    
+  </body>
+</html>
